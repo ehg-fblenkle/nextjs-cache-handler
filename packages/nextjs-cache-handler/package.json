@@ -57,6 +57,9 @@
       "*": [
         "dist/handlers/cache-handler.d.ts"
       ],
+      "handlers/*": [
+        "dist/handlers/*.d.ts"
+      ],
       "functions": [
         "dist/functions/functions.d.ts"
       ],
